@@ -1,4 +1,6 @@
-# TikTok Caption Cue Lab
+# Bright Data TikTok Caption Cue Lab
+
+**Repository:** [bright-data-tiktok-creative-patterns](https://github.com/yaronbeen/bright-data-tiktok-creative-patterns) · **Data provider:** [Bright Data](https://brightdata.com/)
 
 You have already saved a set of public TikTok video URLs that feel relevant to a campaign. Now you want to compare how their captions frame the opening message without manually opening and sorting every example. **TikTok Caption Cue Lab turns that curated URL set into a literal caption-cue inventory and human-reviewed test hypotheses.** It examines caption text only: it does not analyze video visuals, audio, editing, or creative performance.
 
